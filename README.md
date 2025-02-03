@@ -36,7 +36,7 @@ A sophisticated SaaS application for medical image analysis, designed specifical
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/medical-image-analysis-saas.git
+git clone https://github.com/DixithC/medical-image-analyzer.git
 cd medical-image-analysis-saas
 ```
 
